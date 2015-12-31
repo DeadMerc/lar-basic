@@ -1,2 +1,1 @@
-# lar-basic
-Basic laravel project, tasks, users
+project with basic tasks and auth users
